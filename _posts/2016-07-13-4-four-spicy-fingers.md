@@ -1,13 +1,13 @@
 ---
 description: ...impressions of 8 days and 7500 Km
-dateModified: '2016-07-13T00:47:33.607Z'
-datePublished: '2016-07-13T00:47:35.851Z'
+dateModified: '2016-07-13T01:17:36.249Z'
+datePublished: '2016-07-13T01:17:45.296Z'
 title: (4) four Spicy Fingers
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f104bc6f-57ee-4279-a9c6-4a5b271d1c6a.png
-starred: false
 sourcePath: _posts/2016-07-13-4-four-spicy-fingers.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -35,7 +35,7 @@ It was amazing to see how many different looks the desert has. Just take rocks a
 That stayed true once we entered Mexico, only that the towns we passed through displayed more history, colonial and modern architecture. The odd and also funny things we'd see, increased the wealth of new impressions of a country we had only seen little of in our lives..... for example how unrestricted (and in what condition) vehicles would transport just about anything you can imagine.
 
 The road conditions themselves here also triggered some awe and oh's and ouches. We found the various Mexican states must distribute their available funds quite differently. Some seem to feel the roads are not really a priority (even when road toll is being collected), while others invest so much that the driving experience is close to surpassing the quality and safety standards of roads back home.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5561678a-5d82-4f84-9194-4a65de0693de.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ecb8e04-4a71-42e2-a4a3-cb4f6e019071.jpg)
 
 The van overheated once (only) on the incline up into the mountains as we were trying to beat dusk. It was a bit scary because everyone had advised us "do not drive at night". So, as we were forced to stand on the side of the highway, we grew a little nervous while the engine cooled down (from a red hot glow) and the darkness slowly rolled in. Once ready again, the coolant was topped up and the drive continued on high alert, slow and steady, aiming at staying in the wind-shadow of trucks. For two reasons - A) if anything was on the road we could hit (cows, dogs, donkeys) the truck surly would clear the way first and B) those truckers knew the roads well and they would slow down for obstacles such as topes and/or potholes, so we could easily follow suit. We found a place in Puebla that night.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e119bc90-e32f-417c-b641-5219296f3496.jpg)
