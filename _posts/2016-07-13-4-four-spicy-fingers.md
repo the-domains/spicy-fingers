@@ -1,7 +1,7 @@
 ---
 description: ...impressions of 8 days and 7500 Km
-dateModified: '2016-07-13T01:17:36.249Z'
-datePublished: '2016-07-13T01:17:45.296Z'
+dateModified: '2016-07-14T21:23:57.266Z'
+datePublished: '2016-07-14T21:35:39.026Z'
 title: (4) four Spicy Fingers
 author: []
 isBasedOnUrl: >-
@@ -24,7 +24,6 @@ Driving through the US verified that stereotypical image of what I always though
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bf1baa9-2fb1-49cd-9f91-c811e11b538d.jpg)
 
 For example one town we had aimed for to fuel up, turned out to only have one gas station and that station was de-commissioned years ago. I guess that gave us the opportunity to test our 20-litre jerry can and then pray it'll take us far enough to the next pump. Next stop we bought a second jerry can..... just to be safe.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e342178-7e19-4c5f-b01b-b3566737b471.jpg)
 
 Then there were the wind-gust warnings in some areas of Nevada. We saw a few semi-trailers laying on their sides and that made us question how our Snorkel mobil would react - specially when the radio kept announcing "vehicles with trailer are prohibited'. We decided what we were towing with our little van, wasn't really worth calling a trailer compared to those huge campers and the semi trucks we saw surviving on the road coming towards us (with, off course, those few exceptions but are the odds?). We really didn't feel like we offered too much surface for the wind to attack - but when those gusts hit us, it felt like that moment on top of the roller coaster where your stomach lurches as the cart tips forward. Probably dramatizing now - but with utter concentration and quick reflexes we steered against those, what felt like immense forces, and we survived.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc3e2eec672a04d4a98e28cf15b47a3075da62c9.jpg)
@@ -33,6 +32,7 @@ It was amazing to see how many different looks the desert has. Just take rocks a
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94a99d1-d556-4308-a077-0f14d3455776.jpg)
 
 That stayed true once we entered Mexico, only that the towns we passed through displayed more history, colonial and modern architecture. The odd and also funny things we'd see, increased the wealth of new impressions of a country we had only seen little of in our lives..... for example how unrestricted (and in what condition) vehicles would transport just about anything you can imagine.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5063a8f-3478-4f02-bc01-0d8352bb82d4.jpg)
 
 The road conditions themselves here also triggered some awe and oh's and ouches. We found the various Mexican states must distribute their available funds quite differently. Some seem to feel the roads are not really a priority (even when road toll is being collected), while others invest so much that the driving experience is close to surpassing the quality and safety standards of roads back home.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ecb8e04-4a71-42e2-a4a3-cb4f6e019071.jpg)
