@@ -1,14 +1,14 @@
-layout_spectrum: 0.5568990984465927
-typography_spectrum: 0.8886104198172688
+layout_spectrum: 0.5242036390118301
+typography_spectrum: 0.4698482076637447
 color:
-  brandStrength: 0.5315382315311581
-  lightness: 0.6340486593544483
-  saturation: 0.04000641545280814
-  rhythmicContrast: 0.2533985720947385
+  brandStrength: 0.1445386386476457
+  lightness: 0.027706401655450463
+  saturation: 0.3752570073120296
+  rhythmicContrast: 0.6594825254287571
   brandColors:
-    - '#FFF8E3'
-    - '#CCCC9F'
-    - '#33332D'
-    - '#9FB4CC'
-    - '#DB4105'
+    - '#354242'
+    - '#ACEBAE'
+    - '#FFFF9D'
+    - '#C9DE55'
+    - '#7D9100'
 name: Spicy Fingers
