@@ -1,12 +1,14 @@
 ---
 description: ...impressions of 8 days and 7500 Km
-dateModified: '2016-07-14T21:36:26.230Z'
-datePublished: '2016-07-14T23:47:12.455Z'
+dateModified: '2016-07-29T21:16:30.732Z'
+datePublished: '2016-07-29T21:16:33.215Z'
 title: (4) four Spicy Fingers
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f104bc6f-57ee-4279-a9c6-4a5b271d1c6a.png
 sourcePath: _posts/2016-07-13-4-four-spicy-fingers.md
+publisher: {}
+via: {}
 starred: false
 inFeed: true
 hasPage: false
@@ -25,7 +27,7 @@ Driving through the US verified that stereotypical image of what I always though
 
 For example one town we had aimed for to fuel up, turned out to only have one gas station and that station was de-commissioned years ago. I guess that gave us the opportunity to test our 20-litre jerry can and then pray it'll take us far enough to the next pump. Next stop we bought a second jerry can..... just to be safe.
 
-Then there were the wind-gust warnings in some areas of Nevada. We saw a few semi-trailers laying on their sides and that made us question how our Snorkel mobil would react - specially when the radio kept announcing "vehicles with trailer are prohibited'. We decided what we were towing with our little van, wasn't really worth calling a trailer compared to those huge campers and the semi trucks we saw surviving on the road coming towards us (with, off course, those few exceptions but are the odds?). We really didn't feel like we offered too much surface for the wind to attack - but when those gusts hit us, it felt like that moment on top of the roller coaster where your stomach lurches as the cart tips forward. Probably dramatizing now - but with utter concentration and quick reflexes we steered against those, what felt like immense forces, and we survived.
+Then there were the wind-gust warnings in some areas of Nevada. We saw a few semi-trailers laying on their sides and that made us question how our Snorkel mobil would react - specially when the radio kept announcing "vehicles with trailer are prohibited'. We decided what we were towing with our little van, wasn't really worth calling a trailer compared to those huge campers and the semi trucks we saw surviving on the road coming towards us (with, off course, those few exceptions but what are the odds?). We really didn't feel like we offered too much surface for the wind to attack - but when those gusts hit us, it felt like that moment on top of the roller coaster where your stomach lurches as the cart tips forward. Probably dramatizing now - but with utter concentration and quick reflexes we steered against those, what felt like immense forces, and we survived.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc3e2eec672a04d4a98e28cf15b47a3075da62c9.jpg)
 
 It was amazing to see how many different looks the desert has. Just take rocks and their formations for example - the ever changing shades and layers of colour and variations of shapes are endless. And vegetation - there are plants found only in one area and then no more. Add the different weather patterns to the various landscapes and the drama is complete, form mysterious to majestic - from powerful to ancient.
