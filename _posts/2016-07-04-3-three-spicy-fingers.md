@@ -1,13 +1,15 @@
 ---
-description: ...crossing over
-dateModified: '2016-07-02T00:55:19.917Z'
-datePublished: '2016-07-04T19:29:06.355Z'
-title: (3) three Spicy Fingers
-author: []
+datePublished: '2016-07-29T21:18:07.370Z'
+sourcePath: _posts/2016-07-04-3-three-spicy-fingers.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/68968aca-a9e1-404c-aaaf-aa785544775f.jpg
+author: []
+via: {}
+dateModified: '2016-07-29T21:17:47.415Z'
+title: (3) three Spicy Fingers
+publisher: {}
+description: ...crossing over
 starred: false
-sourcePath: _posts/2016-07-04-3-three-spicy-fingers.md
 inFeed: true
 hasPage: false
 inNav: false
