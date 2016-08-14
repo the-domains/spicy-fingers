@@ -1,4 +1,3 @@
-layout_spectrum: 0.5242036390118301
 typography_spectrum: 0.4698482076637447
 color:
   brandStrength: 0.1445386386476457
@@ -11,4 +10,6 @@ color:
     - '#FFFF9D'
     - '#C9DE55'
     - '#7D9100'
+layout_spectrum: 0.5242036390118301
 name: Spicy Fingers
+description: travel & live in a foreign country
