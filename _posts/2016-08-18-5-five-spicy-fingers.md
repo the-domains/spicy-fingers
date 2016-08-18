@@ -1,13 +1,13 @@
 ---
 description: 'How safe is Mexico? '
-dateModified: '2016-08-18T22:05:54.695Z'
-datePublished: '2016-08-18T22:06:35.721Z'
+dateModified: '2016-08-18T22:20:31.668Z'
+datePublished: '2016-08-18T22:20:31.844Z'
 title: (5) five Spicy Fingers
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-5-five-spicy-fingers.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
