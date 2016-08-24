@@ -25,5 +25,8 @@ navigation:
   - name: (4) four Spicy Fingers
     id: 5a3ab81c-f9c3-482f-a20c-705a4b283a11
     type: content
+  - name: (5) five Spicy Fingers
+    id: 070e75f6-b096-4b02-b6f1-239c565b5225
+    type: content
 title: our Mexican adventure
 description: our life in the Yucatan
