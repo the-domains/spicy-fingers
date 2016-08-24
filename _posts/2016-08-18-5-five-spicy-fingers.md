@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T16:38:52.065Z'
+datePublished: '2016-08-24T16:38:57.486Z'
 sourcePath: _posts/2016-08-18-5-five-spicy-fingers.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T16:38:41.509Z'
+dateModified: '2016-08-24T16:38:55.839Z'
 title: (5) five Spicy Fingers
 publisher: {}
 description: How safe is Mexico?
