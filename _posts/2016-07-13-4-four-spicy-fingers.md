@@ -1,18 +1,15 @@
 ---
 description: ...impressions of 8 days and 7500 Km
-dateModified: '2016-08-17T23:07:27.093Z'
-datePublished: '2016-08-17T23:07:48.754Z'
+dateModified: '2016-08-24T13:33:24.309Z'
+datePublished: '2016-08-24T13:33:25.175Z'
 title: (4) four Spicy Fingers
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f104bc6f-57ee-4279-a9c6-4a5b271d1c6a.png
 sourcePath: _posts/2016-07-13-4-four-spicy-fingers.md
 publisher: {}
 via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: 4-four-spicy-fingers/index.html
 _type: MediaObject
 
 ---
