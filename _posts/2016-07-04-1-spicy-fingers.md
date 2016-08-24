@@ -2,8 +2,8 @@
 description: >-
   ...nope, this is not a cooking site. This is where we write about our Mexican
   adventures.
-dateModified: '2016-08-18T22:22:21.311Z'
-datePublished: '2016-08-18T22:22:23.312Z'
+dateModified: '2016-08-24T13:32:53.850Z'
+datePublished: '2016-08-24T13:32:54.887Z'
 title: (1) Spicy Fingers
 author: []
 sourcePath: _posts/2016-07-04-1-spicy-fingers.md
