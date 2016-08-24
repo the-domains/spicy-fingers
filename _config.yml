@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.5242036390118301
 name: Spicy Fingers
 navigation:
-  - name: (1) Spicy Fingers
-    id: 3df0b1a9-0750-4896-a1fd-510c9b0bf06e
-    type: content
   - name: (2) two Spicy Fingers
     id: 8e5fcb58-019c-4c4e-9066-965fee5c0545
     type: content
