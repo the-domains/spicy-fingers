@@ -1,7 +1,7 @@
 ---
 description: 'Perceptions, Blogs & Social Media'
-dateModified: '2016-08-24T13:28:30.261Z'
-datePublished: '2016-08-24T13:28:31.111Z'
+dateModified: '2016-08-24T13:33:02.680Z'
+datePublished: '2016-08-24T13:33:03.331Z'
 title: (2) two Spicy Fingers
 author: []
 sourcePath: _posts/2016-07-04-2-two-spicy-fingers.md
