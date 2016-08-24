@@ -12,5 +12,9 @@ color:
     - '#7D9100'
 layout_spectrum: 0.5242036390118301
 name: Spicy Fingers
+navigation:
+  - name: (1) Spicy Fingers
+    id: 3df0b1a9-0750-4896-a1fd-510c9b0bf06e
+    type: content
 title: our Mexican adventure
 description: our life in the Yucatan
