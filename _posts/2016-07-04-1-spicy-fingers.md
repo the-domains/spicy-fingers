@@ -1,18 +1,19 @@
 ---
+datePublished: '2016-08-25T01:05:31.377Z'
+sourcePath: _posts/2016-07-04-1-spicy-fingers.md
+inFeed: true
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-25T01:05:30.878Z'
+title: (1) Spicy Fingers
+publisher: {}
 description: >-
   ...nope, this is not a cooking site. This is where we write about our Mexican
   adventures.
-dateModified: '2016-08-24T13:32:53.850Z'
-datePublished: '2016-08-24T13:32:54.887Z'
-title: (1) Spicy Fingers
-author: []
-sourcePath: _posts/2016-07-04-1-spicy-fingers.md
-hasPage: true
-publisher: {}
-via: {}
 starred: false
 url: 1-spicy-fingers/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # (1) Spicy Fingers
