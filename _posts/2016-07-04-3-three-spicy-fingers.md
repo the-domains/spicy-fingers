@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-08-24T13:33:17.311Z'
+datePublished: '2016-08-25T01:01:28.952Z'
 sourcePath: _posts/2016-07-04-3-three-spicy-fingers.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T13:33:16.605Z'
+dateModified: '2016-08-25T01:01:28.349Z'
 title: (3) three Spicy Fingers
 publisher: {}
 description: ...crossing over
-hasPage: true
 starred: false
 url: 3-three-spicy-fingers/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # (3) three Spicy Fingers
