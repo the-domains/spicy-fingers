@@ -1,16 +1,17 @@
 ---
-description: 'Perceptions, Blogs & Social Media'
-dateModified: '2016-08-24T13:33:02.680Z'
-datePublished: '2016-08-24T13:33:03.331Z'
-title: (2) two Spicy Fingers
-author: []
+datePublished: '2016-08-25T01:02:54.571Z'
 sourcePath: _posts/2016-07-04-2-two-spicy-fingers.md
+inFeed: true
 hasPage: true
-publisher: {}
+author: []
 via: {}
+dateModified: '2016-08-25T01:02:54.043Z'
+title: (2) two Spicy Fingers
+publisher: {}
+description: 'Perceptions, Blogs & Social Media'
 starred: false
 url: 2-two-spicy-fingers/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # (2) two Spicy Fingers
