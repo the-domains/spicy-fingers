@@ -1,16 +1,16 @@
-typography_spectrum: 0.4698482076637447
+layout_spectrum: 0.07075250358320773
+typography_spectrum: 0.514207701664418
 color:
-  brandStrength: 0.1445386386476457
-  lightness: 0.027706401655450463
-  saturation: 0.3752570073120296
-  rhythmicContrast: 0.6594825254287571
+  brandStrength: 0.152427977649495
+  lightness: 0.2748694906476885
+  saturation: 0.7058530333451927
+  rhythmicContrast: 0.3900102851912379
   brandColors:
-    - '#354242'
-    - '#ACEBAE'
-    - '#FFFF9D'
-    - '#C9DE55'
-    - '#7D9100'
-layout_spectrum: 0.5242036390118301
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Spicy Fingers
 navigation:
   - name: (1) Spicy Fingers
