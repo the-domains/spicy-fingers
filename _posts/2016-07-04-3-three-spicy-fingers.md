@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T21:18:42.300Z'
+datePublished: '2016-08-28T21:27:21.792Z'
 sourcePath: _posts/2016-07-04-3-three-spicy-fingers.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T21:18:41.483Z'
+dateModified: '2016-08-28T21:27:21.208Z'
 title: (3) three Spicy Fingers
 publisher: {}
 description: >-
@@ -44,7 +44,7 @@ _type: Article
 ---
 # (3) three Spicy Fingers
 
-## ...crossing over
+### ...crossing over
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68968aca-a9e1-404c-aaaf-aa785544775f.jpg)
 
 Our first border crossing from Canada into the US was surprisingly more eventful than anticipated. Not that we expected to fly through but after being instructed to park at the customs & immigration area, we had to leave the car keys with 2 officers outside for them to search our vehicle and trailer. Once inside, the officer behind the counter felt our agenda was too out of the norm and was joined by a second officer for them to wrap their heads around what we had laid out as our one year plan. Both officers fired questions at us clearly aimed at investigating wether or not we would somehow disappear in the United States and find work there. They couldn't fathom the fact that we were planning a trip for that length of time and that our destination was Mexico, not the United States. Additionally, that we had no definite route or places planned to stay at on our way down, bypassing the US altogether, really took them for a loop. After repeatedly being asked and telling them our final destination, we then spelled 'Merida' out, as well as answered what we did for a living for the border officers to google away and confirm that we didn't make any of this up. By that point, it more likely than not, was out of curiosity. The 2 officers then joined the 2 that had our car keys. All 4 then went through our car and trailer again, before coming back inside with more questions as to why we would expose our children to the dangers of Mexico and have we ever been there before? We said 'yes, multiple times" before finally, in a friendly manner, asking back; have you been? The answer was "no and as border officers, knowing what we do, we would never consider a trip down". The conversation now had lost the interrogation factor and became somewhat casual. We were filled in what kind of information patrol officer would receive about Mexico's border areas. Why what we are doing all seemed so dangerous and irresponsible to them. It all made sense to us from their point of view. Interestingly enough we have European friends who apply the same logic to areas in the US they wouldn't visit after watching the news.
