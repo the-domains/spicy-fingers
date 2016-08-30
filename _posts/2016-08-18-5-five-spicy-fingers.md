@@ -1,14 +1,25 @@
 ---
-datePublished: '2016-08-24T16:38:57.486Z'
+datePublished: '2016-08-28T21:18:32.391Z'
 sourcePath: _posts/2016-08-18-5-five-spicy-fingers.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T16:38:55.839Z'
+dateModified: '2016-08-28T21:18:31.811Z'
 title: (5) five Spicy Fingers
 publisher: {}
-description: How safe is Mexico?
+description: >-
+  For some reason mainstream media seems to love picking on Mexico with reports
+  and stories which, if I didn't know any better, would keep me from even
+  considering a trip there. Just like the officers at the US border crossing,
+  most of us would never consider exposing ourselves to the risks of kidnaping
+  and street robbery willingly. Hence, when we shared our plans they were met
+  with some concern. Even now that we have been here for a good while we get
+  comments from people back in Canada and Europe. In conversation with some of
+  these very rational folks we couldn't really hand out the “it just feels
+  right” card, so it helped collecting an inventory of some facts and viewpoints
+  we had gathered throughout our research period and now, while experiencing
+  this wonderful country.
 starred: false
 url: 5-five-spicy-fingers/index.html
 _type: Article
@@ -16,7 +27,7 @@ _type: Article
 ---
 # (5) five Spicy Fingers
 
-**How safe is Mexico?**
+## How safe is Mexico?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0b3b34e-d58f-43c4-9061-0a70d235e1fd.jpg)
 
 For some reason mainstream media seems to love picking on Mexico with reports and stories which, if I didn't know any better, would keep me from even considering a trip there. Just like the officers at the US border crossing, most of us would never consider exposing ourselves to the risks of kidnaping and street robbery willingly. Hence, when we shared our plans they were met with some concern. Even now that we have been here for a good while we get comments from people back in Canada and Europe. In conversation with some of these very rational folks we couldn't really hand out the "it just feels right" card, so it helped collecting an inventory of some facts and viewpoints we had gathered throughout our research period and now, while experiencing this wonderful country.
