@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-28T21:27:12.028Z'
+datePublished: '2016-08-28T23:45:25.380Z'
 sourcePath: _posts/2016-07-13-4-four-spicy-fingers.md
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T21:27:11.287Z'
+dateModified: '2016-08-28T23:45:24.566Z'
 title: (4) four Spicy Fingers
 publisher: {}
 description: >-
@@ -20,7 +21,7 @@ description: >-
   worries and excitement. A good mix!
 starred: false
 url: 4-four-spicy-fingers/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # (4) four Spicy Fingers
