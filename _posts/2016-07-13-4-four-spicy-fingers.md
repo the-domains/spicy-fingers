@@ -1,13 +1,23 @@
 ---
-description: ...impressions of 8 days and 7500 Km
-dateModified: '2016-08-24T13:33:24.309Z'
-datePublished: '2016-08-24T13:33:25.175Z'
-title: (4) four Spicy Fingers
-author: []
+datePublished: '2016-08-28T21:17:51.338Z'
 sourcePath: _posts/2016-07-13-4-four-spicy-fingers.md
-publisher: {}
-via: {}
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-28T21:17:50.518Z'
+title: (4) four Spicy Fingers
+publisher: {}
+description: >-
+  Driving through the US verified that stereotypical image of what I always
+  thought road trips in North America would look like, for the most parts
+  anyway. Once we passed Oregon’s snowy mountains, we faced one endless road
+  disappearing into the horizon. The only thing that changed was the vegetation,
+  the scenery and the easily recognizable approach into the next town when signs
+  of Mac Donald and Walmart emerged on the roadside - with some exceptions off
+  course. I am probably exaggerating, but throw the odd ghost town into the mix
+  and the overall impression is pretty much that. The unknown road offered
+  plenty of food for discussions, discoveries and some laughs along with some
+  worries and excitement. A good mix!
 starred: false
 url: 4-four-spicy-fingers/index.html
 _type: MediaObject
@@ -15,7 +25,7 @@ _type: MediaObject
 ---
 # (4) four Spicy Fingers
 
-...impressions of 8 days and 7500 Km
+## ...impressions of 8 days and 7500 Km
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f104bc6f-57ee-4279-a9c6-4a5b271d1c6a.png)
 
 Driving through the US verified that stereotypical image of what I always thought road trips in North America would look like, for the most parts anyway. Once we passed Oregon's snowy mountains, we faced one endless road disappearing into the horizon. The only thing that changed was the vegetation, the scenery and the easily recognizable approach into the next town when signs of Mac Donald and Walmart emerged on the roadside - with some exceptions off course. I am probably exaggerating, but throw the odd ghost town into the mix and the overall impression is pretty much that. The unknown road offered plenty of food for discussions, discoveries and some laughs along with some worries and excitement. A good mix!
