@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-29T02:09:58.655Z'
+datePublished: '2016-08-29T02:15:00.241Z'
+sourcePath: _posts/2016-08-29-6-six-spicy-fingers.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-29T02:09:03.876Z'
+dateModified: '2016-08-29T02:14:59.376Z'
 title: (6) six Spicy Fingers
 publisher: {}
 description: >-
@@ -18,8 +20,8 @@ description: >-
   He was dropped into the enclosure containing the two lovebird scorpions. Who
   is swearing now?
 starred: false
-sourcePath: _posts/2016-08-29-6-six-spicy-fingers.md
-_type: Blurb
+url: 6-six-spicy-fingers/index.html
+_type: Article
 
 ---
 # (6) six Spicy Fingers
