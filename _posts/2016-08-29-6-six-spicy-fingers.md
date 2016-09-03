@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T13:39:38.410Z'
+datePublished: '2016-08-31T13:50:02.952Z'
 sourcePath: _posts/2016-08-29-6-six-spicy-fingers.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T13:39:37.625Z'
+dateModified: '2016-08-31T13:50:01.375Z'
 title: (6) six Spicy Fingers
 publisher: {}
 description: >-
